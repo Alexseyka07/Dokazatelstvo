@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Dokazatelstvo_na_opite.props" />
+</Project>
